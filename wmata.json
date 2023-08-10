@@ -1,0 +1,4314 @@
+{
+  "version": "1.0.0",
+  "src_hash": "2de4a4c347afbca537f480c3dde017ddb443eed8fbdb490cf6e0e2a17d11f9e8",
+  "stations": [
+    {
+      "name": "Addison Road",
+      "lines": {
+        "inner": true,
+        "left": "Ashburn/Franconia-Spring\ufb01eld",
+        "right": "Largo"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            22.499848160939997,
+            103.50044291491201
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            22.500208397171996,
+            139.50021178344002
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Anacostia",
+      "lines": {
+        "inner": true,
+        "left": "Greenbelt",
+        "right": "Branch Ave"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            22.499848160939997,
+            103.50044291491201
+          ],
+          "caption": "Parking Garage "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            22.500208397171996,
+            139.50021178344002
+          ],
+          "caption": "Parking Garage "
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            643.4998503164038,
+            139.50044406691202
+          ],
+          "caption": "Howard Rd "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            643.499812914828,
+            103.50021063144001
+          ],
+          "caption": "Howard Rd "
+        }
+      ]
+    },
+    {
+      "name": "Archives",
+      "lines": {
+        "inner": true,
+        "left": "Greenbelt/Mt Vernon Sq",
+        "right": "Branch Ave/Huntington"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            31.499848448939996,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            220.500214733172,
+            121.50021120744
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Arlington Cemetery",
+      "lines": {
+        "inner": false,
+        "left": "Franconia-Spring\ufb01eld",
+        "right": "Largo"
+      },
+      "indicators": [
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            405.00019898362797,
+            211.50021408744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            427.4998827744839,
+            211.499450307888
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            405.00019898362797,
+            31.50020832744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            427.4998827744839,
+            31.499456358911978
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Ashburn",
+      "lines": {
+        "inner": true,
+        "left": "Ashburn",
+        "right": "Ashburn"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            494.99988493448393,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            323.9993213916,
+            103.49966338732803
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            314.999802402828,
+            139.50021178344002
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            404.9993239836,
+            103.49966338732803
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Ballston-MU",
+      "lines": {
+        "inner": false,
+        "left": "Ashburn/Vienna",
+        "right": "Largo/New Carrollton"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            634.4998500284039,
+            31.500440610912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            485.999807874828,
+            31.50020832744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            427.49980600282794,
+            31.50020832744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            634.4998500284039,
+            211.500434559888
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            485.999807874828,
+            211.50021408744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            427.49980600282794,
+            211.50021408744
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Benning Road",
+      "lines": {
+        "inner": true,
+        "left": "Ashburn/Franconia-Spring\ufb01eld",
+        "right": "Largo"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            598.499848876404,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            499.49980830682796,
+            121.50021120744
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Bethesda",
+      "lines": {
+        "inner": true,
+        "left": "Shady Grove",
+        "right": "Glenmont"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            67.499847632436,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            193.50067548336,
+            121.49966396332802
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            270.000216317172,
+            121.50021120744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            544.428981004404,
+            121.501427742912
+          ],
+          "caption": "South Entrance (under construction) "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            580.346682941172,
+            121.50021120744
+          ],
+          "caption": "South Entrance (under construction) "
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            508.5125162723999,
+            121.49966396332802
+          ],
+          "caption": "South Entrance (under construction) "
+        }
+      ]
+    },
+    {
+      "name": "Braddock Road",
+      "lines": {
+        "inner": true,
+        "left": "Largo/Mt Vernon Sq",
+        "right": "Franconia-Spring\ufb01eld/Huntington"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            431.999882918484,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            328.50021818917196,
+            121.50021120744
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Branch Avenue",
+      "lines": {
+        "inner": true,
+        "left": "Branch Ave",
+        "right": "Branch Ave"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            157.49985444944397,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            238.50067692336,
+            121.49966396332802
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            324.00021804517195,
+            121.50021120744
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Brookland-CUA",
+      "lines": {
+        "inner": true,
+        "left": "Shady Grove",
+        "right": "Glenmont"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            517.4998856544839,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            386.99980470682794,
+            121.50021120744
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Capitol Heights",
+      "lines": {
+        "inner": true,
+        "left": "Ashburn/Franconia-Spring\ufb01eld",
+        "right": "Largo"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            566.999847868404,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            458.99980701082796,
+            121.50021120744
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Capitol South",
+      "lines": {
+        "inner": true,
+        "left": "Ashburn/Franconia-Spring\ufb01eld/Vienna",
+        "right": "Largo/New Carrollton"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            49.499847056435996,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            157.50067433136002,
+            121.49966396332802
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            238.50021530917198,
+            121.50021120744
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Cheverly",
+      "lines": {
+        "inner": false,
+        "left": "Vienna",
+        "right": "New Carrollton"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            229.49985675344396,
+            31.500440610912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            314.999802402828,
+            31.50020832744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            229.49985675344396,
+            211.500434559888
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            314.999802402828,
+            211.50021408744
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Clarendon",
+      "lines": {
+        "inner": false,
+        "left": "Ashburn/Vienna",
+        "right": "Largo/New Carrollton"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            328.499879606484,
+            31.500440610912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            459.00022236517196,
+            31.50020832744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            330.7498796784839,
+            211.500434559888
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            459.00022236517196,
+            211.50021408744
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Cleveland Park",
+      "lines": {
+        "inner": true,
+        "left": "Shady Grove",
+        "right": "Glenmont"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            49.499847056435996,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            135.000211997172,
+            139.50021178344002
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            130.50067346736,
+            103.49966338732803
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "College Park\u2013University of Maryland",
+      "lines": {
+        "inner": true,
+        "left": "Greenbelt",
+        "right": "Branch Ave"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            292.4998784544839,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            373.49932297559997,
+            103.49966338732803
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            184.50021358117198,
+            139.50021178344002
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            184.50067519535997,
+            103.49966338732803
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Columbia Heights",
+      "lines": {
+        "inner": true,
+        "left": "Greenbelt",
+        "right": "Branch Ave"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            80.99984806443598,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            130.50067346736,
+            121.49966396332802
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            207.00021430117198,
+            121.50021120744
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Congress Heights",
+      "lines": {
+        "inner": true,
+        "left": "Greenbelt",
+        "right": "Branch Ave"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            584.9998484444038,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            463.4993258556,
+            121.49966396332802
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            386.99980470682794,
+            121.50021120744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            535.4993281595999,
+            121.49966396332802
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Court House",
+      "lines": {
+        "inner": true,
+        "left": "Ashburn/Vienna",
+        "right": "Largo/New Carrollton"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            598.499848876404,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            454.49980686682795,
+            121.50021120744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            535.4993281595999,
+            121.49966396332802
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Crystal City",
+      "lines": {
+        "inner": false,
+        "left": "Largo/Mt Vernon Sq",
+        "right": "Franconia-Spring\ufb01eld/Huntington"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            301.49987874248393,
+            31.500440610912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            495.00022351717195,
+            31.50020832744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            224.99979952282797,
+            31.50020832744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            301.49987874248393,
+            211.500434559888
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            495.00022351717195,
+            211.50021408744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            224.99979952282797,
+            211.50021408744
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Deanwood",
+      "lines": {
+        "inner": true,
+        "left": "Vienna",
+        "right": "New Carrollton"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            409.499882198484,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            229.50021502117198,
+            121.50021120744
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Downtown Largo",
+      "lines": {
+        "inner": true,
+        "left": "Largo",
+        "right": "Largo"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            333.145549046484,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            454.49980686682795,
+            103.50021063144001
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            517.4993275836,
+            139.49966453932802
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            445.49932527959993,
+            139.49966453932802
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            211.500214445172,
+            103.50021063144001
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            220.50067634736,
+            139.49966453932802
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Dulles International Airport",
+      "lines": {
+        "inner": true,
+        "left": "Ashburn",
+        "right": "Largo"
+      },
+      "indicators": [
+        {
+          "type": "STAIR",
+          "pos": [
+            193.49910068015998,
+            121.49966396332802
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            463.49957093434796,
+            121.50021120744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            285.75578375048394,
+            121.49945923891201
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            236.24395145744398,
+            121.49945923891201
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Dunn Loring",
+      "lines": {
+        "inner": true,
+        "left": "Vienna",
+        "right": "New Carrollton"
+      },
+      "indicators": [
+        {
+          "type": "EXIT",
+          "pos": [
+            22.499575523135995,
+            121.50018660114002
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Dupont Circle",
+      "lines": {
+        "inner": false,
+        "left": "Shady Grove",
+        "right": "Glenmont"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            49.499847056435996,
+            211.500434559888
+          ],
+          "caption": "Q St"
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            193.50021386917197,
+            211.50021408744
+          ],
+          "caption": "Q St"
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            472.49980744282794,
+            211.50021408744
+          ],
+          "caption": " Dupont Circle "
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            49.499847056435996,
+            31.500440610912
+          ],
+          "caption": "Q St"
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            193.50021386917197,
+            31.50020832744
+          ],
+          "caption": "Q St"
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            472.49980744282794,
+            31.50020832744
+          ],
+          "caption": " Dupont Circle "
+        }
+      ]
+    },
+    {
+      "name": "East Falls Church",
+      "lines": {
+        "inner": true,
+        "left": "Ashburn/Vienna",
+        "right": "Largo/New Carrollton"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            278.9998780224839,
+            121.49945923891201
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            306.00021746917196,
+            121.50021120744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            229.499230769172,
+            139.50021178344002
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Eastern Market",
+      "lines": {
+        "inner": true,
+        "left": "Ashburn/Franconia-Spring\ufb01eld/Vienna",
+        "right": "Largo/New Carrollton"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            364.50086501048395,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            238.49881570282798,
+            121.50021120744
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Eisenhower Avenue",
+      "lines": {
+        "inner": false,
+        "left": "Mt Vernon Sq",
+        "right": "Huntington"
+      },
+      "indicators": [
+        {
+          "type": "EXIT",
+          "pos": [
+            292.50020128914,
+            211.500426685872
+          ],
+          "caption": ""
+        },
+        {
+          "type": "EXIT",
+          "pos": [
+            292.50020128914,
+            31.499570532144045
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            337.4998798944839,
+            211.500434559888
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            337.4998798944839,
+            31.500440610912
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Farragut North",
+      "lines": {
+        "inner": true,
+        "left": "Shady Grove",
+        "right": "Glenmont"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            427.4998827744839,
+            121.500443490912
+          ],
+          "caption": " K St"
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            346.49980341082795,
+            121.50021120744
+          ],
+          "caption": " K St"
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            22.500208397171996,
+            121.50021120744
+          ],
+          "caption": "North Side L St "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            310.50021761317197,
+            121.50021120744
+          ],
+          "caption": " South Side L St "
+        }
+      ]
+    },
+    {
+      "name": "Farragut West",
+      "lines": {
+        "inner": false,
+        "left": "Ashburn/Franconia-Spring\ufb01eld/Vienna",
+        "right": "Largo/New Carrollton"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            49.499847056435996,
+            31.500440610912
+          ],
+          "caption": "18th & I "
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            49.500085245419996,
+            211.500434559888
+          ],
+          "caption": "18th & I "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            180.000213437172,
+            211.50021408744
+          ],
+          "caption": " 18th & I "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            180.000213437172,
+            31.50020832744
+          ],
+          "caption": "\n18th & I "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            449.99980672282794,
+            31.50020832744
+          ],
+          "caption": "17th & I "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            449.99980672282794,
+            211.50021408744
+          ],
+          "caption": "17th & I "
+        }
+      ]
+    },
+    {
+      "name": "Federal Center SW",
+      "lines": {
+        "inner": true,
+        "left": "Ashburn/Franconia-Spring\ufb01eld/Vienna",
+        "right": "Largo/New Carrollton"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            409.500098733924,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            229.49979966682798,
+            121.50021120744
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Federal Triangle",
+      "lines": {
+        "inner": true,
+        "left": "Ashburn/Franconia-Spring\ufb01eld/Vienna",
+        "right": "Largo/New Carrollton"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            319.500095853924,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            224.99979952282797,
+            135.00021163944
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            445.500221933172,
+            121.50021120744
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Foggy Bottom-GWU",
+      "lines": {
+        "inner": true,
+        "left": "Ashburn/Franconia-Spring\ufb01eld/Vienna",
+        "right": "Largo/New Carrollton"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            121.499849360436,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            310.50021761317197,
+            121.50021120744
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Forest Glen",
+      "lines": {
+        "inner": true,
+        "left": "Shady Grove",
+        "right": "Glenmont"
+      },
+      "indicators": [
+        {
+          "type": "EXIT",
+          "pos": [
+            481.50020733713995,
+            94.50041506785601
+          ],
+          "caption": ""
+        },
+        {
+          "type": "EXIT",
+          "pos": [
+            481.50020733713995,
+            148.49957427614402
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Fort Totten (Lower Level)",
+      "lines": {
+        "inner": true,
+        "left": "Greenbelt",
+        "right": "Branch Ave"
+      },
+      "indicators": [
+        {
+          "type": "STAIR",
+          "pos": [
+            85.50067596436799,
+            121.49966396332802
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            139.500212141172,
+            121.50021120744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            22.499848160939997,
+            103.50044291491201
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Fort Totten (Upper Level)",
+      "lines": {
+        "inner": true,
+        "left": "Shady Grove",
+        "right": "Glenmont"
+      },
+      "indicators": [
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            238.50021530917198,
+            121.50021120744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            337.4998798944839,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            427.49980600282794,
+            121.50021120744
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Franconia-Spring\ufb01eld",
+      "lines": {
+        "inner": true,
+        "left": "Franconia-Spring\ufb01eld",
+        "right": "Franconia-Spring\ufb01eld"
+      },
+      "indicators": [
+        {
+          "type": "STAIR",
+          "pos": [
+            346.5007000644,
+            103.49966338732803
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            175.499855025444,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            283.50021674917195,
+            121.50021120744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            351.00021890917196,
+            139.50021178344002
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Friendship Heights",
+      "lines": {
+        "inner": true,
+        "left": "Shady Grove",
+        "right": "Glenmont"
+      },
+      "indicators": [
+        {
+          "type": "STAIR",
+          "pos": [
+            521.9993277276,
+            103.49966338732803
+          ],
+          "caption": "Jenifer St "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            135.000211997172,
+            103.50021063144001
+          ],
+          "caption": "Western Ave "
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            94.49984849643599,
+            139.50044406691202
+          ],
+          "caption": "Western Ave "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            207.00021430117198,
+            121.50021120744
+          ],
+          "caption": "Western Ave "
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            544.4998471484039,
+            139.50044406691202
+          ],
+          "caption": "Jenifer St "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            458.99980701082796,
+            121.50021120744
+          ],
+          "caption": "Jenifer St "
+        }
+      ]
+    },
+    {
+      "name": "Gallery Place (Lower Level)",
+      "lines": {
+        "inner": true,
+        "left": "Greenbelt/Mt Vernon Sq",
+        "right": "Branch Ave/Huntington"
+      },
+      "indicators": [
+        {
+          "type": "STAIR",
+          "pos": [
+            603.0007082724,
+            103.49966338732803
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            607.500227117172,
+            139.50021178344002
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            517.4293580931719,
+            139.50021178344002
+          ],
+          "caption": "Elevator to \nPlatform & Street "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            373.49980427482797,
+            121.50021120744
+          ],
+          "caption": "RD Trains to Glenmont \n7th & H, 9th & G "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            301.50021732517195,
+            121.50021120744
+          ],
+          "caption": "RD Trains to Glenmont \n7th & H, 9th & G "
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            220.49985646544397,
+            121.500443490912
+          ],
+          "caption": "Elevator to \nPlatform Only "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            157.499797362828,
+            103.50021063144001
+          ],
+          "caption": "Elevator to \nPlatform Only "
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            161.99933589263998,
+            139.49966453932802
+          ],
+          "caption": "RD Trains to Shady Grove \n7th & H, 9th & G "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            121.50021156517198,
+            121.50021120744
+          ],
+          "caption": "Elevator to \nPlatform Only "
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            526.4998465724038,
+            103.50044291491201
+          ],
+          "caption": "Elevator to \nPlatform & Street "
+        }
+      ]
+    },
+    {
+      "name": "Gallery Place (Upper Level)",
+      "lines": {
+        "inner": false,
+        "left": "Shady Grove",
+        "right": "Glenmont"
+      },
+      "indicators": [
+        {
+          "type": "EXIT",
+          "pos": [
+            589.4126123651399,
+            211.500426685872
+          ],
+          "caption": ""
+        },
+        {
+          "type": "EXIT",
+          "pos": [
+            629.9126136611399,
+            211.500426685872
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            189.000213725172,
+            211.50021408744
+          ],
+          "caption": "9th & G "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            193.50021386917197,
+            31.50020832744
+          ],
+          "caption": "\n9th & G "
+        },
+        {
+          "type": "EXIT",
+          "pos": [
+            589.4126123651399,
+            31.499570532144045
+          ],
+          "caption": ""
+        },
+        {
+          "type": "EXIT",
+          "pos": [
+            629.9126136611399,
+            31.499570532144045
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Georgia Avenue-Petworth",
+      "lines": {
+        "inner": true,
+        "left": "Greenbelt",
+        "right": "Branch Ave"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            584.9998484444038,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            535.4993281595999,
+            121.49966396332802
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            458.99980701082796,
+            121.50021120744
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Glenmont",
+      "lines": {
+        "inner": true,
+        "left": "Glenmont",
+        "right": "Glenmont"
+      },
+      "indicators": [
+        {
+          "type": "STAIR",
+          "pos": [
+            490.50070467239993,
+            121.49966396332802
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            274.499801106828,
+            121.50021120744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            418.4998824864839,
+            121.500443490912
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Greenbelt",
+      "lines": {
+        "inner": true,
+        "left": "Greenbelt",
+        "right": "Greenbelt"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            323.99987946248393,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            431.99932484759995,
+            103.49966338732803
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            431.99980614682795,
+            139.50021178344002
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            234.00067677936,
+            103.49966338732803
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Greensboro",
+      "lines": {
+        "inner": true,
+        "left": "Ashburn",
+        "right": "Largo"
+      },
+      "indicators": [
+        {
+          "type": "STAIR",
+          "pos": [
+            332.9934161676,
+            139.49966453932802
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            319.499802546828,
+            103.50021063144001
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            404.9993239836,
+            139.49966453932802
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            512.9998855104839,
+            121.500443490912
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Grosvenor-Strathmore",
+      "lines": {
+        "inner": true,
+        "left": "Shady Grove",
+        "right": "Glenmont"
+      },
+      "indicators": [
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            445.499806578828,
+            121.50021120744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            643.4998503164038,
+            121.500443490912
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Herndon",
+      "lines": {
+        "inner": true,
+        "left": "Ashburn",
+        "right": "Largo"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            458.99988378248395,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            287.9993202396,
+            103.49966338732803
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            278.999801250828,
+            139.50021178344002
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            359.9993225436,
+            103.49966338732803
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Huntington",
+      "lines": {
+        "inner": true,
+        "left": "Huntington",
+        "right": "Huntington"
+      },
+      "indicators": [
+        {
+          "type": "STAIR",
+          "pos": [
+            238.49933834063995,
+            139.49966453932802
+          ],
+          "caption": "Huntington Ave "
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            643.4998503164038,
+            139.50044406691202
+          ],
+          "caption": "\nKings Highway "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            643.499812914828,
+            103.50021063144001
+          ],
+          "caption": "\nKings Highway "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            170.999797794828,
+            121.50021120744
+          ],
+          "caption": "Huntington Ave "
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            238.49985704144396,
+            103.50044291491201
+          ],
+          "caption": "Huntington Ave "
+        }
+      ]
+    },
+    {
+      "name": "Hyattsville Crossing",
+      "lines": {
+        "inner": false,
+        "left": "Greenbelt",
+        "right": "Branch Ave"
+      },
+      "indicators": [
+        {
+          "type": "STAIR",
+          "pos": [
+            211.50067605936,
+            211.499666843328
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            112.49984907243598,
+            211.500434559888
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            211.50067605936,
+            31.499661083328064
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            112.49984907243598,
+            31.500440610912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            287.9869186643999,
+            211.50163534732803
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            301.48840630117195,
+            211.50021408744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            287.9869186643999,
+            31.501629587328054
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            301.48840630117195,
+            31.50020832744
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Innovation Center",
+      "lines": {
+        "inner": true,
+        "left": "Ashburn",
+        "right": "Largo"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            98.999917538076,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            270.00044171087995,
+            139.49966453932802
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            278.999980384692,
+            103.50021063144001
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            193.50044910539998,
+            139.49966453932802
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Judiciary Square",
+      "lines": {
+        "inner": false,
+        "left": "Shady Grove",
+        "right": "Glenmont"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            35.99984859294,
+            31.500440610912
+          ],
+          "caption": "F St"
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            485.999807874828,
+            31.50020832744
+          ],
+          "caption": "4th St "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            180.000213437172,
+            31.50020832744
+          ],
+          "caption": " F St"
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            35.99984859294,
+            211.500434559888
+          ],
+          "caption": "F St"
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            485.999807874828,
+            211.50021408744
+          ],
+          "caption": "4th St "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            180.000213437172,
+            211.50021408744
+          ],
+          "caption": " F St"
+        }
+      ]
+    },
+    {
+      "name": "King Street-Old Town",
+      "lines": {
+        "inner": true,
+        "left": "Largo/Mt Vernon Sq",
+        "right": "Franconia-Spring\ufb01eld/Huntington"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            22.576619816939996,
+            103.50044291491201
+          ],
+          "caption": "Commonwealth Ave "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            351.00021890917196,
+            121.50021120744
+          ],
+          "caption": " Buses "
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            22.576099147632,
+            139.49966453932802
+          ],
+          "caption": "Commonwealth Ave "
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            270.0006976164,
+            121.49966396332802
+          ],
+          "caption": " Buses "
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            323.99987946248393,
+            121.500443490912
+          ],
+          "caption": " Buses "
+        }
+      ]
+    },
+    {
+      "name": "L\u2019Enfant Plaza (Lower Level)",
+      "lines": {
+        "inner": true,
+        "left": "Ashburn/Franconia-Spring\ufb01eld/Vienna",
+        "right": "Largo/New Carrollton"
+      },
+      "indicators": [
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            342.000218621172,
+            121.50021120744
+          ],
+          "caption": "7th & Maryland Ave \n"
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            211.49985617744397,
+            139.50044406691202
+          ],
+          "caption": "GR/YL Trains to \nBranch Ave/Huntington "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            162.00021286117197,
+            121.50021120744
+          ],
+          "caption": "Elevator to All \nDestinations "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            431.99980614682795,
+            121.50021120744
+          ],
+          "caption": "7th & Maryland Ave \n"
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            521.999809026828,
+            121.50021120744
+          ],
+          "caption": "7th & D "
+        }
+      ]
+    },
+    {
+      "name": "L\u2019Enfant Plaza (Upper Level)",
+      "lines": {
+        "inner": false,
+        "left": "Greenbelt/Mt Vernon Sq",
+        "right": "Branch Ave/Huntington"
+      },
+      "indicators": [
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            247.68919198117197,
+            31.50020832744
+          ],
+          "caption": "All BL/OR/SV Trains \n9th & D \nElevator to Platform Only "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            508.499808594828,
+            31.50020832744
+          ],
+          "caption": "Opposite \nPlatform "
+        },
+        {
+          "type": "EXIT",
+          "pos": [
+            463.61733274914,
+            31.50055478414404
+          ],
+          "caption": "Opposite \nPlatform "
+        },
+        {
+          "type": "EXIT",
+          "pos": [
+            418.67048091714,
+            31.50055478414404
+          ],
+          "caption": "Opposite \nPlatform "
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            22.533312728939997,
+            31.500440610912
+          ],
+          "caption": "Opposite \nPlatform & \nStreet "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            184.46674901317198,
+            31.50020832744
+          ],
+          "caption": "7th & \nMaryland \nAve"
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            247.68919198117197,
+            211.50021408744
+          ],
+          "caption": "All BL/OR/SV Trains \n7th & D \nNo Elevator "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            508.499808594828,
+            211.50021408744
+          ],
+          "caption": "Opposite \nPlatform "
+        },
+        {
+          "type": "EXIT",
+          "pos": [
+            463.61733274914,
+            211.50055660713602
+          ],
+          "caption": "Opposite \nPlatform "
+        },
+        {
+          "type": "EXIT",
+          "pos": [
+            418.67048091714,
+            211.50055660713602
+          ],
+          "caption": "Opposite \nPlatform "
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            22.533312728939997,
+            211.500434559888
+          ],
+          "caption": "Opposite \nPlatform & \nStreet "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            184.46674901317198,
+            211.50021408744
+          ],
+          "caption": "7th & \nMaryland \nAve"
+        }
+      ]
+    },
+    {
+      "name": "Landover",
+      "lines": {
+        "inner": true,
+        "left": "Vienna",
+        "right": "New Carrollton"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            274.49987787848397,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            427.49980600282794,
+            121.50021120744
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Loudoun Gateway",
+      "lines": {
+        "inner": true,
+        "left": "Ashburn",
+        "right": "Largo"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            206.99993083659598,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            378.0004451668799,
+            103.49966338732803
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            386.999983840692,
+            139.50021178344002
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            301.50044271888,
+            103.49966338732803
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "McLean",
+      "lines": {
+        "inner": true,
+        "left": "Ashburn",
+        "right": "Largo"
+      },
+      "indicators": [
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            288.00021689317197,
+            139.50021178344002
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            288.0006981923999,
+            103.49966338732803
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            360.0007004964,
+            103.49966338732803
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            476.999884358484,
+            121.500443490912
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "McPherson Square",
+      "lines": {
+        "inner": false,
+        "left": "Ashburn/Franconia-Spring\ufb01eld/Vienna",
+        "right": "Largo/New Carrollton"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            643.395519604404,
+            31.500440610912
+          ],
+          "caption": "14th & I "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            485.999807874828,
+            31.50020832744
+          ],
+          "caption": "14th & I "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            180.000213437172,
+            31.50020832744
+          ],
+          "caption": "Vermont Ave "
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            643.395519604404,
+            211.500434559888
+          ],
+          "caption": "14th & I "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            485.999807874828,
+            211.50021408744
+          ],
+          "caption": "14th & I "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            180.000213437172,
+            211.50021408744
+          ],
+          "caption": "Vermont Ave "
+        }
+      ]
+    },
+    {
+      "name": "Medical Center",
+      "lines": {
+        "inner": true,
+        "left": "Shady Grove",
+        "right": "Glenmont"
+      },
+      "indicators": [
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            198.00021401317198,
+            121.50021120744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            121.50067317935999,
+            121.49966396332802
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            58.49984734443599,
+            121.500443490912
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Metro Center (Lower Level)",
+      "lines": {
+        "inner": true,
+        "left": "Ashburn/Franconia-Spring\ufb01eld/Vienna",
+        "right": "Largo/New Carrollton"
+      },
+      "indicators": [
+        {
+          "type": "STAIR",
+          "pos": [
+            71.999329075632,
+            121.49966396332802
+          ],
+          "caption": "\nElevator to \nPlatform & Street "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            207.00021430117198,
+            121.50021120744
+          ],
+          "caption": "RD Trains to Glenmont \n11th & G, 13th & G "
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            139.49985387344398,
+            121.500443490912
+          ],
+          "caption": "\nElevator to \nPlatform & Street "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            296.999801826828,
+            121.50021120744
+          ],
+          "caption": "RD Trains to Glenmont \n11th & G, 13th & G "
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            382.4998813344839,
+            121.500443490912
+          ],
+          "caption": "Elevator to \nPlatform Only "
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            485.9993265756,
+            121.49966396332802
+          ],
+          "caption": "12th & F "
+        }
+      ]
+    },
+    {
+      "name": "Metro Center (Upper Level)",
+      "lines": {
+        "inner": false,
+        "left": "Shady Grove",
+        "right": "Glenmont"
+      },
+      "indicators": [
+        {
+          "type": "EXIT",
+          "pos": [
+            310.50020186513996,
+            211.500426685872
+          ],
+          "caption": "Elevator to \nPlatform & Street "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            180.000213437172,
+            211.50021408744
+          ],
+          "caption": "All BL/OR/SV Trains \n12th & G "
+        },
+        {
+          "type": "EXIT",
+          "pos": [
+            355.50020330513996,
+            211.500426685872
+          ],
+          "caption": "Elevator to \nPlatform & Street "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            485.999807874828,
+            211.50021408744
+          ],
+          "caption": "11th & G "
+        },
+        {
+          "type": "EXIT",
+          "pos": [
+            310.50020186513996,
+            31.499570532144045
+          ],
+          "caption": "Elevator to \nPlatform Only "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            180.000213437172,
+            31.50020832744
+          ],
+          "caption": "All BL/OR/SV Trains \n12th & F "
+        },
+        {
+          "type": "EXIT",
+          "pos": [
+            355.50020330513996,
+            31.499570532144045
+          ],
+          "caption": "Elevator to \nPlatform Only "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            485.999807874828,
+            31.50020832744
+          ],
+          "caption": "11th & G "
+        }
+      ]
+    },
+    {
+      "name": "Minnesota Avenue",
+      "lines": {
+        "inner": true,
+        "left": "Vienna",
+        "right": "New Carrollton"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            193.49985560144398,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            386.99980470682794,
+            121.50021120744
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Morgan Boulevard",
+      "lines": {
+        "inner": true,
+        "left": "Ashburn/Franconia-Spring\ufb01eld",
+        "right": "Largo"
+      },
+      "indicators": [
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            283.50021674917195,
+            139.50021178344002
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            193.50067548336,
+            103.49966338732803
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            274.50069776039993,
+            103.49966338732803
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            319.499879318484,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            436.50022164517196,
+            139.50021178344002
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            427.5007026564,
+            103.49966338732803
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Mount Vernon Square",
+      "lines": {
+        "inner": true,
+        "left": "Greenbelt/Mt Vernon Sq",
+        "right": "Branch Ave"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            643.5008345684039,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            526.4983436196,
+            121.49966396332802
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            454.498822614828,
+            121.50021120744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            414.0008665944839,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            350.9983380036,
+            139.49966453932802
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            341.998819014828,
+            103.50021063144001
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Navy Yard-Ballpark",
+      "lines": {
+        "inner": true,
+        "left": "Greenbelt",
+        "right": "Branch Ave"
+      },
+      "indicators": [
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            508.64744639482797,
+            103.50021063144001
+          ],
+          "caption": "USDOT "
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            116.99984921643599,
+            121.500443490912
+          ],
+          "caption": "Ballpark and Soccer Stadium "
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            512.9993274395999,
+            139.49966453932802
+          ],
+          "caption": "USDOT "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            193.50021386917197,
+            121.50021120744
+          ],
+          "caption": "Ballpark and Soccer Stadium "
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            81.00067582036799,
+            121.49966396332802
+          ],
+          "caption": "Ballpark and Soccer Stadium "
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            571.4998480124038,
+            121.500443490912
+          ],
+          "caption": "USDOT "
+        }
+      ]
+    },
+    {
+      "name": "Naylor Road",
+      "lines": {
+        "inner": true,
+        "left": "Greenbelt",
+        "right": "Branch Ave"
+      },
+      "indicators": [
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            377.999804418828,
+            103.50021063144001
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            126.00067332336,
+            103.49966338732803
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            247.49985732944398,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            377.99932311960004,
+            139.49966453932802
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "New Carrollton",
+      "lines": {
+        "inner": true,
+        "left": "New Carrollton",
+        "right": "New Carrollton"
+      },
+      "indicators": [
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            206.99923004917198,
+            121.50021120744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            337.500864146484,
+            139.50044406691202
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            377.99833886759995,
+            103.49966338732803
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "NoMa-Gallaudet U",
+      "lines": {
+        "inner": true,
+        "left": "Shady Grove",
+        "right": "Glenmont"
+      },
+      "indicators": [
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            80.99922601717199,
+            139.50021178344002
+          ],
+          "caption": "M St"
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            80.999691568368,
+            103.49966338732803
+          ],
+          "caption": "M St"
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            283.4983358436,
+            103.49966338732803
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            364.499235089172,
+            139.50021178344002
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            364.4997163884,
+            103.49966338732803
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            490.49972042039997,
+            103.49966338732803
+          ],
+          "caption": "Florida Ave "
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            323.99987946248393,
+            121.500443490912
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "North Bethesda",
+      "lines": {
+        "inner": true,
+        "left": "Shady Grove",
+        "right": "Glenmont"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            643.4998503164038,
+            139.50044406691202
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            643.499812914828,
+            103.50021063144001
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Pentagon",
+      "lines": {
+        "inner": true,
+        "left": "Largo/Mt Vernon Sq",
+        "right": "Franconia-Spring\ufb01eld/Huntington"
+      },
+      "indicators": [
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            76.49979477082799,
+            94.50021034344002
+          ],
+          "caption": "Path to Station Exit "
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            22.499848160939997,
+            94.50044262691202
+          ],
+          "caption": "Path to Station Exit "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            418.50022106917197,
+            94.50021034344002
+          ],
+          "caption": "Escalators to Platform Only "
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            22.499848160939997,
+            148.50044435491202
+          ],
+          "caption": "Path to Station Exit "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            202.499798802828,
+            148.50021207144002
+          ],
+          "caption": "Escalators to Platform Only "
+        },
+        {
+          "type": "EXIT",
+          "pos": [
+            229.87126227713998,
+            148.49957427614402
+          ],
+          "caption": "Escalators to Platform Only "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            301.50021732517195,
+            148.50021207144002
+          ],
+          "caption": "Escalators to Platform Only "
+        },
+        {
+          "type": "EXIT",
+          "pos": [
+            274.50020071314,
+            148.50055852814404
+          ],
+          "caption": "Escalators to Platform Only "
+        }
+      ]
+    },
+    {
+      "name": "Pentagon City",
+      "lines": {
+        "inner": false,
+        "left": "Largo/Mt Vernon Sq",
+        "right": "Franconia-Spring\ufb01eld/Huntington"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            49.499847056435996,
+            211.500434559888
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            243.000215453172,
+            211.50021408744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            49.499847056435996,
+            31.500440610912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            243.000215453172,
+            31.50020832744
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Potomac Avenue",
+      "lines": {
+        "inner": true,
+        "left": "Ashburn/Franconia-Spring\ufb01eld/Vienna",
+        "right": "Largo/New Carrollton"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            526.4998465724038,
+            135.000443922912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            346.49980341082795,
+            121.50021120744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            553.5002253891719,
+            103.50021063144001
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Potomac Yard",
+      "lines": {
+        "inner": false,
+        "left": "Largo/Mt Vernon Sq",
+        "right": "Franconia-Spring\ufb01eld/Huntington"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            22.560871784939998,
+            211.500434559888
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            22.560871784939998,
+            31.500440610912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "EXIT",
+          "pos": [
+            103.50019524114,
+            211.500426685872
+          ],
+          "caption": ""
+        },
+        {
+          "type": "EXIT",
+          "pos": [
+            103.50019524114,
+            31.499570532144045
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Reston Town Center",
+      "lines": {
+        "inner": true,
+        "left": "Ashburn",
+        "right": "Largo"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            206.99993083659598,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            378.0004451668799,
+            139.49966453932802
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            386.999983840692,
+            103.50021063144001
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            301.50044271888,
+            139.49966453932802
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Rhode Island Avenue",
+      "lines": {
+        "inner": true,
+        "left": "Shady Grove",
+        "right": "Glenmont"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            314.9998791744839,
+            103.50044291491201
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            278.999801250828,
+            121.50021120744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            323.99980269082795,
+            139.50021178344002
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Rockville",
+      "lines": {
+        "inner": true,
+        "left": "Shady Grove",
+        "right": "Glenmont"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            256.499857617444,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            364.49980398682794,
+            121.50021120744
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Rosslyn",
+      "lines": {
+        "inner": true,
+        "left": "Ashburn/Franconia-Spring\ufb01eld/Vienna",
+        "right": "Largo/New Carrollton"
+      },
+      "indicators": [
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            157.499797362828,
+            148.50021207144002
+          ],
+          "caption": "Path to Station Exit "
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            323.99987946248393,
+            148.50044435491202
+          ],
+          "caption": "Escalators & Elevator \nto Platform Only "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            490.50022337317193,
+            148.50021207144002
+          ],
+          "caption": "Escalators & Elevator \nto Platform Only "
+        },
+        {
+          "type": "EXIT",
+          "pos": [
+            344.69902185714,
+            94.50041506785601
+          ],
+          "caption": "Escalators & Elevator \nto Platform Only "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            278.999801250828,
+            94.50119459544001
+          ],
+          "caption": "Escalators & Elevator \nto Platform Only "
+        },
+        {
+          "type": "EXIT",
+          "pos": [
+            303.29941423313994,
+            94.50041506785601
+          ],
+          "caption": "Escalators & Elevator \nto Platform Only "
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            323.9997522971256,
+            94.49967884736
+          ],
+          "caption": "Escalators & Elevator \nto Platform Only "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            369.00021948517195,
+            94.50021034344002
+          ],
+          "caption": "Escalators & Elevator \nto Platform Only "
+        }
+      ]
+    },
+    {
+      "name": "Shady Grove",
+      "lines": {
+        "inner": true,
+        "left": "Shady Grove",
+        "right": "Shady Grove"
+      },
+      "indicators": [
+        {
+          "type": "STAIR",
+          "pos": [
+            161.99969022336,
+            121.49966396332802
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            256.499857617444,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            333.1233374316,
+            139.49966453932802
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            332.97716518282795,
+            103.50021063144001
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Shaw-Howard University",
+      "lines": {
+        "inner": true,
+        "left": "Greenbelt",
+        "right": "Branch Ave"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            89.999848352436,
+            121.500443490912
+          ],
+          "caption": "Howard University "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            503.99980845082797,
+            121.50021120744
+          ],
+          "caption": "8th & R "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            198.00021401317198,
+            121.50021120744
+          ],
+          "caption": "Howard University "
+        }
+      ]
+    },
+    {
+      "name": "Silver Spring",
+      "lines": {
+        "inner": true,
+        "left": "Shady Grove",
+        "right": "Glenmont"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            400.49988191048396,
+            121.500443490912
+          ],
+          "caption": "North Side Colesville Rd "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            535.500224813172,
+            121.50021120744
+          ],
+          "caption": "North Side Colesville Rd "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            265.50021617317196,
+            121.50021120744
+          ],
+          "caption": "South Side Colesville Rd "
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            121.58252652843598,
+            121.501427742912
+          ],
+          "caption": "Transit Center (Under Construction) "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            157.500212717172,
+            121.50021120744
+          ],
+          "caption": "South Side Colesville Rd "
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            85.66603030036799,
+            121.49966396332802
+          ],
+          "caption": "Transit Center (Under Construction) "
+        }
+      ]
+    },
+    {
+      "name": "Smithsonian",
+      "lines": {
+        "inner": false,
+        "left": "Ashburn/Franconia-Spring\ufb01eld/Vienna",
+        "right": "Largo/New Carrollton"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            616.4998494524039,
+            31.500440610912
+          ],
+          "caption": "12th & \nIndependence "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            485.999807874828,
+            31.50020832744
+          ],
+          "caption": "12th & \nIndependence "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            256.500215885172,
+            31.50020832744
+          ],
+          "caption": "12th & \nJe\ufb00erson "
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            616.4663848844039,
+            211.500434559888
+          ],
+          "caption": "12th & \nIndependence "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            485.966343306828,
+            211.50021408744
+          ],
+          "caption": "12th & \nIndependence "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            256.466751317172,
+            211.50021408744
+          ],
+          "caption": "12th & \nJe\ufb00erson "
+        }
+      ]
+    },
+    {
+      "name": "Southern Avenue",
+      "lines": {
+        "inner": true,
+        "left": "Greenbelt",
+        "right": "Branch Ave"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            193.49985560144398,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            355.500219053172,
+            121.50021120744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            269.9997133644,
+            121.49966396332802
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Spring Hill",
+      "lines": {
+        "inner": true,
+        "left": "Ashburn",
+        "right": "Largo"
+      },
+      "indicators": [
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            216.00021458917197,
+            139.50021178344002
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            215.99969195135998,
+            103.49966338732803
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            359.9997162443999,
+            103.49966338732803
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            328.499879606484,
+            121.500443490912
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Stadium-Armory",
+      "lines": {
+        "inner": true,
+        "left": "Ashburn/Franconia-Spring\ufb01eld/Vienna",
+        "right": "Largo/New Carrollton"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            53.999847200435994,
+            121.500443490912
+          ],
+          "caption": "C St"
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            135.000211997172,
+            121.50021120744
+          ],
+          "caption": "C St"
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            643.411230234828,
+            121.50021120744
+          ],
+          "caption": "\nStadium \nArmory "
+        }
+      ]
+    },
+    {
+      "name": "Suitland",
+      "lines": {
+        "inner": true,
+        "left": "Greenbelt",
+        "right": "Branch Ave"
+      },
+      "indicators": [
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            310.49980225882797,
+            121.50021120744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            400.49833958759996,
+            121.49966396332802
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            476.999884358484,
+            121.500443490912
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Takoma",
+      "lines": {
+        "inner": true,
+        "left": "Shady Grove",
+        "right": "Glenmont"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            247.50084158144398,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            22.499793042827996,
+            121.50021120744
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Tenleytown-AU",
+      "lines": {
+        "inner": true,
+        "left": "Shady Grove",
+        "right": "Glenmont"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            638.999850172404,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            260.999800674828,
+            121.50021120744
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Twinbrook",
+      "lines": {
+        "inner": true,
+        "left": "Shady Grove",
+        "right": "Glenmont"
+      },
+      "indicators": [
+        {
+          "type": "STAIR",
+          "pos": [
+            463.4997195563999,
+            103.49966338732803
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            562.4998477244039,
+            121.500443490912
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Tysons",
+      "lines": {
+        "inner": true,
+        "left": "Ashburn",
+        "right": "Largo"
+      },
+      "indicators": [
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            310.49980225882797,
+            103.50021063144001
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            229.49933805263998,
+            139.49966453932802
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            301.4993206716,
+            139.49966453932802
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            143.999854017444,
+            121.500443490912
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "U Street",
+      "lines": {
+        "inner": true,
+        "left": "Greenbelt",
+        "right": "Branch Ave"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            49.499847056435996,
+            121.500443490912
+          ],
+          "caption": "\n13th & U "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            162.00021286117197,
+            121.50021120744
+          ],
+          "caption": "\n13th & U "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            539.999809602828,
+            121.50021120744
+          ],
+          "caption": "10th & U "
+        }
+      ]
+    },
+    {
+      "name": "Union Station",
+      "lines": {
+        "inner": true,
+        "left": "Shady Grove",
+        "right": "Glenmont"
+      },
+      "indicators": [
+        {
+          "type": "EXIT",
+          "pos": [
+            643.500461536896,
+            121.49980274286
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            157.499797362828,
+            139.50021178344002
+          ],
+          "caption": "Mass Ave, Shops, \nPostal Museum "
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            166.49933603664,
+            103.49966338732803
+          ],
+          "caption": "Mass Ave, Shops, \nPostal Museum "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            346.50021876517195,
+            121.50021120744
+          ],
+          "caption": "\n1st St \nAmtrak \nCommuter Trains "
+        }
+      ]
+    },
+    {
+      "name": "Van Dorn Street",
+      "lines": {
+        "inner": true,
+        "left": "Franconia-Spring\ufb01eld",
+        "right": "Largo"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            341.999880038484,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            242.999800098828,
+            103.50021063144001
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            242.99969281536,
+            139.49966453932802
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            422.99834030759996,
+            139.49966453932802
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Van Ness-UDC",
+      "lines": {
+        "inner": true,
+        "left": "Shady Grove",
+        "right": "Glenmont"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            49.499847056435996,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            135.000211997172,
+            121.50021120744
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Vienna",
+      "lines": {
+        "inner": true,
+        "left": "Vienna",
+        "right": "Vienna"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            472.4998842144839,
+            103.50044291491201
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            517.4998088828279,
+            121.50021120744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            409.4983398756,
+            103.49966338732803
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            413.99980557082796,
+            139.50021178344002
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Virginia Square-GMU",
+      "lines": {
+        "inner": false,
+        "left": "Ashburn/Vienna",
+        "right": "Largo/New Carrollton"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            229.49985675344396,
+            31.500440610912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            342.000218621172,
+            31.50020832744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            229.49985675344396,
+            211.500434559888
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            342.000218621172,
+            211.50021408744
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Washington National Airport",
+      "lines": {
+        "inner": true,
+        "left": "Largo/Mt Vernon Sq",
+        "right": "Franconia-Spring\ufb01eld/Huntington"
+      },
+      "indicators": [
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            22.560816666827996,
+            148.50021207144002
+          ],
+          "caption": "Terminal 2 \nC/D/E Gates "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            22.560816666827996,
+            94.50021034344002
+          ],
+          "caption": "Terminal 2 \nC/D/E Gates "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            643.5002282691719,
+            94.50021034344002
+          ],
+          "caption": "\nTerminals 1 & 2 \nA/B/C Gates "
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            643.5002282691719,
+            148.50021207144002
+          ],
+          "caption": "Terminals 1 & 2 \nA/B/C Gates "
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            355.49988047048396,
+            148.50044435491202
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            355.49988047048396,
+            94.50044262691202
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Waterfront",
+      "lines": {
+        "inner": true,
+        "left": "Greenbelt",
+        "right": "Branch Ave"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            409.499882198484,
+            139.50044406691202
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            233.99979981082797,
+            121.50021120744
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            427.4997184043999,
+            103.49966338732803
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "West Falls Church",
+      "lines": {
+        "inner": true,
+        "left": "Vienna",
+        "right": "New Carrollton"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            310.49987903048395,
+            148.50044435491202
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            378.000219773172,
+            148.50021207144002
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            139.49834698363196,
+            148.499664827328
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            310.49987903048395,
+            94.50044262691202
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            378.000219773172,
+            94.50021034344002
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            139.49834698363196,
+            94.499663099328
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "West Hyattsville",
+      "lines": {
+        "inner": false,
+        "left": "Greenbelt",
+        "right": "Branch Ave"
+      },
+      "indicators": [
+        {
+          "type": "EXIT",
+          "pos": [
+            211.50019869713998,
+            211.500426685872
+          ],
+          "caption": ""
+        },
+        {
+          "type": "EXIT",
+          "pos": [
+            211.50019869713998,
+            31.499570532144045
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Wheaton",
+      "lines": {
+        "inner": true,
+        "left": "Shady Grove",
+        "right": "Glenmont"
+      },
+      "indicators": [
+        {
+          "type": "EXIT",
+          "pos": [
+            377.99921977314,
+            94.50041506785601
+          ],
+          "caption": ""
+        },
+        {
+          "type": "EXIT",
+          "pos": [
+            377.99921977314,
+            148.49957427614402
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            643.4998503164038,
+            148.50044435491202
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Wiehle-Reston East",
+      "lines": {
+        "inner": true,
+        "left": "Ashburn",
+        "right": "Largo"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            449.99992877007594,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            292.49910384815996,
+            139.49966453932802
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            283.499565174348,
+            103.50021063144001
+          ],
+          "caption": ""
+        },
+        {
+          "type": "STAIR",
+          "pos": [
+            364.49910615216004,
+            139.49966453932802
+          ],
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Woodley Park",
+      "lines": {
+        "inner": true,
+        "left": "Shady Grove",
+        "right": "Glenmont"
+      },
+      "indicators": [
+        {
+          "type": "ELEVATOR",
+          "pos": [
+            328.499879606484,
+            121.500443490912
+          ],
+          "caption": ""
+        },
+        {
+          "type": "ESCALATOR",
+          "pos": [
+            242.999800098828,
+            121.50021120744
+          ],
+          "caption": ""
+        }
+      ]
+    }
+  ]
+}
