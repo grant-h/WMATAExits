@@ -24,3 +24,8 @@ Then run the script on the PDF to produce a JSON file:
 * Resolve indicator position to a track/platform relative location that is independent of the page size
 * Resolve preferred exits (need to understand PDF shapes)
 * Resolve exit/escalator/stair direction
+
+### Disclaimers
+
+Not an official WMATA product.
+
